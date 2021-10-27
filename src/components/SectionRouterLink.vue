@@ -37,7 +37,7 @@
 
             <b>Exemplos de Utilização</b>
 
-            <p>Todos os links do menu à esquerda foram feitos utilizando router-links. Dê uma olhada!</p>
+            <p>Todos os links do menu à esquerda foram feitos utilizando router-links. Dê uma olhada no arquivo <b>src/components/PageMenu.vue</b>!</p>
         </PageContentText>
     </div>
 </template>

@@ -7,6 +7,10 @@
     <ul>
 
       <li>
+        <a href="https://github.com/CaioAFA/vue-router-samples" target="_blank">GitHub do Projeto</a>
+      </li>
+
+      <li>
         <router-link to="/router-view">Introdução <br>&#60;router-view&#62;</router-link>
       </li>
 

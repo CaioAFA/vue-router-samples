@@ -7,7 +7,7 @@
 
             <p>O Vue Router funciona da seguinte forma: temos a tag <b>&#60;router-view&#62;&#60;router-view/&#62;</b> , cujo conteúdo renderizado irá variar de acordo com a rota.</p>
             <p>Algo bem comum é definir um Header/Menu e/ou um Footer para algum site e só trocar o conteúdo "central" de acordo com a rota.</p>
-            <p>Nesse site de exemplo, o Menu é fixo e apenas essa parte varia.</p>
+            <p>Nesse site de exemplo, o Menu é fixo e apenas essa parte varia. Confira o arquivo <b>src/components/PageContent.vue</b>.</p>
 
             <br>
 
