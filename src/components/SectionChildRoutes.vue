@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Rotas filhas" />
+        <PageTitle title="Rotas filhas" subtitle="Arquivo src/components/SectionChildRoutes.vue"/>
 
         <PageContentText>
             <p>Algumas rotas de aplicações podem se tornar bem repetitivas. Sendo assim, o que podemos fazer é criar rotas filhas.</p>

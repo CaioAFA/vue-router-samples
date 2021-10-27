@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Transições entre rotas" />
+        <PageTitle title="Transições entre rotas" subtitle="Arquivo src/components/SectionRoutesTransition.vue" />
 
         <PageContentText>
 

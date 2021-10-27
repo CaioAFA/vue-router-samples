@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Alias" />
+        <PageTitle title="Alias" subtitle="Arquivo src/components/SectionRouteAlias.vue"/>
 
         <PageContentText>
             <p>Podemos criar um "apelido" para uma rota. Dessa forma, teremos dois nomes: o original e o apelido!</p>

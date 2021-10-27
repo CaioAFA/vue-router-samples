@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Navegando por métodos" />
+        <PageTitle title="Navegando por métodos" subtitle="Arquivo src/components/SectionNavigationThroughMethods.vue" />
 
         <PageContentText>
             <p>Além do router-link, podemos navegar através de métodos:</p>

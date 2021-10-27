@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Nomes para as views" />
+        <PageTitle title="Nomes para as views" subtitle="Arquivo src/components/SectionViewNames.vue" />
 
         <PageContentText>
             <b>Por que é necessário?</b>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Order das rotas" />
+        <PageTitle title="Order das rotas" subtitle="Arquivo src/components/SectionRoutesOrder.vue"/>
 
         <PageContentText>
             <b>Por que é importante?</b>

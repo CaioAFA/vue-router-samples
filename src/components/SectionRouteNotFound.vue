@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title='Implementando "Página não encontrada"' />
+        <PageTitle title='Implementando "Página não encontrada"' subtitle="Arquivo src/components/SectionRouteNotFound.vue" />
 
         <PageContentText>
             <p>Para implementar uma página de "Página não encontrada", basta adicionar o seguinte nas configurações da rota:</p>

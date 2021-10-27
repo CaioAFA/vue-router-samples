@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Introdução - Router View" />
+        <PageTitle title="Introdução - Router View" subtitle="Arquivo src/components/SectionIntroduction.vue" />
 
         <PageContentText>
             <b>Funcionamento</b>

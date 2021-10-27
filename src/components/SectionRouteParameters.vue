@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Parâmetros de rotas" />
+        <PageTitle title="Parâmetros de rotas" subtitle="Arquivo src/components/SectionRouteParameters.vue"/>
 
         <PageContentText>
             <p>Podemos passar parâmetros para uma URL e recuperá-los em nossa aplicação.</p>

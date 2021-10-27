@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Nomes para rotas" />
+        <PageTitle title="Nomes para rotas" subtitle="Arquivo src/components/SectionRouteNames.vue" />
 
         <PageContentText>
             <p>Algumas rotas são muito acessadas, o que faz com que as chamemos várias vezes no código. Além disso, algumas delas podem ser bem extensas.</p>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Navigation Guards" />
+        <PageTitle title="Navigation Guards" subtitle="Arquivo src/components/SectionNavigationGuards.vue"/>
 
         <PageContentText>
             <p>Um recurso oferecido pelo Vue para monitorarmos as rotas de nossa aplicação, dando a nós a opção de realizarmos algum tipo de verificação antes ou depois de renderizá-las no navegador.</p>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Classe CSS para links ativos" />
+        <PageTitle title="Classe CSS para links ativos" subtitle="Arquivo src/components/SectionLinkCssActiveClass.vue"/>
 
         <PageContentText>
             <p>No arquivo de rotas (src/router/routes.js) conseguimos adicionar uma propriedade chamada de <b>linkExactActiveClass</b>.</p>

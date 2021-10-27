@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Router Link" />
+        <PageTitle title="Router Link" subtitle="Arquivo src/components/SectionRouterLink.vue" />
 
         <PageContentText>
             <p>Temos uma Tag específica para nos ajudar a trocar de rota em nossa aplicação: <b>&#60;router-link&#62;</b></p>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Redirect" />
+        <PageTitle title="Redirect" subtitle="Arquivo src/components/SectionRouteRedirect.vue" />
 
         <PageContentText>
             <p>Podemos criar redirecionamentos de rotas no VueJS.</p>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle title="Parâmetros de rotas - Exemplo" />
+        <PageTitle title="Parâmetros de rotas - Exemplo" subtitle="Arquivo src/components/SectionRouteParametersSample.vue"/>
 
         <PageContentText>
             Parâmetro passado: {{ $route.params.myCustomParameter }}
