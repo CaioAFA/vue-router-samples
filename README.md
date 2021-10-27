@@ -12,7 +12,7 @@ Ele nos permite criar uma Single Page Application (SPA).
 
 **OBS2:** Exemplos feitos em Vue 3. Confira a versão do seu projeto caso vá copiar os códigos. Caso esteja utilizando o Vue 3, talvez seja necessário instalar os pacotes com "@next".
 
-# Instalando o vuex em seu projeto
+# Instalando o vue-router em seu projeto
 - npm install --save vue-router@next
 
 # Rodando o projeto
